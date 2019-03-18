@@ -1,2 +1,2 @@
 # esriWAB
-WAB 2.11 Code
+WAB 2.11 testApp project
